@@ -1,0 +1,16 @@
+function preload()
+{
+
+}
+
+function setup()
+{
+    canvas = createCanvas(300,300);
+    canvas.position(560,150);
+}
+
+
+function draw()
+{
+    
+}
